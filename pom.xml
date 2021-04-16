@@ -38,9 +38,9 @@
         <module>embedded-keycloak-server-spring-boot-support</module>
         <module>embedded-keycloak-server-spring-boot-starter</module>
         <module>embedded-keycloak-server-plain</module>
-        <!--
+        <!-- -->
         <module>embedded-keycloak-server-custom</module>
-        -->
+        <!-- -->
     </modules>
 
     <dependencies>

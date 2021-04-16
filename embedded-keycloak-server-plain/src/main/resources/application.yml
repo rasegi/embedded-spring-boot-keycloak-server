@@ -28,10 +28,10 @@ keycloak:
 #    server:
 #      keycloak-path: "/auth"
 #
-#    adminUser:
-#      username: admin
-#      password: admin
-#      create-admin-user-enabled: true
+    adminUser:
+      username: rasegi
+      password: Nat1982Gold
+      create-admin-user-enabled: true
 #
 #    migration:
 #      importProvider: singleFile
